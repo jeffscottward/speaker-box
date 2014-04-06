@@ -9,13 +9,13 @@ var speakerbox = require('speakerbox');
 ```
 ## Usage
 ```javascript
-speakerbox('URL STRING','DOM SELECTOR STRING', 'OPTIONAL SPEAKER STRING');
+speakerbox('URL','DOM SELECTOR', 'OPTIONAL SPEAKER', OPTIONAL CALLBACK() );
 ```
 ## Example
 ```javascript
 var speakerbox = require('speakerbox');
 // play Radiohead - Fitter Happier
-speakerbox.playText('http://songmeanings.com/songs/view/558/','#textblock');
+speakerbox('http://songmeanings.com/songs/view/558/','#textblock');
 ```
 ## Available Voices
 | Guys    | Girls     | Others    |
