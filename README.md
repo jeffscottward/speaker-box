@@ -1,7 +1,7 @@
 # SpeakerBox - Web Based TTS(Text-To-Speech) Tool
 ## Installation
 ```javascript
- npm install --save say // --save flag stores reference in package.json
+ npm install --save speakerbox // --save flag stores reference in package.json
 ```
 ## Require( ) into your app
 ```javascript
