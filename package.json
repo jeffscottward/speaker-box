@@ -1,8 +1,9 @@
 {
   "name": "speakerbox",
-  "version": "0.0.12",
+  "version": "0.0.15",
   "description": "TTS(Text-To-Speech) Tool for the Web",
   "main": "./lib/index.js",
+  "bin": "./bin/speakerbox.js",
   "author": "@jeffscottward",
   "repository": {
     "type": "git",
