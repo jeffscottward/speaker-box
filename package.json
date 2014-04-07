@@ -1,6 +1,6 @@
 {
   "name": "speakerbox",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "TTS(Text-To-Speech) Tool for the Web",
   "bin": {
     "speakerbox": "./bin/speakerbox"
