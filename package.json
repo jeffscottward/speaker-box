@@ -1,9 +1,9 @@
 {
   "name": "speakerbox",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "TTS(Text-To-Speech) Tool for the Web",
   "bin": {
-    "speakerbox": "lib/speakerbox"
+    "speakerbox": "./bin/speakerbox"
   },
   "main": "./lib/index.js",
   "author": "@jeffscottward",
